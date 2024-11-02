@@ -5,4 +5,4 @@ Welcome to the NetSysHub! This repository is a collection of resources, tools, a
 ## 📚 Table of Contents
 
 <a href="Docker.md"><img src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png" width=300></a>
-<a href="Linux.md"><img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width=250></a>
+<a href="CISCO.md"><img src="https://static.vecteezy.com/system/resources/previews/027/075/812/non_2x/cisco-logo-transparent-free-png.png" width=250></a>
